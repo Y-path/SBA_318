@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "artistId": 1,
+      "title": "Irises",
+      "image": "Van Gogh_Irises.jpg",
+      "year": "1889",
+      "medium": "Oil on Canvas"
+    },
+    {
+      "id": 2,
+      "artistId": 1,
+      "title": "The Starry Night",
+      "image": "Van Gogh_The Starry Night.jpg",
+      "year": "1889",
+      "medium": "Oil on Canvas"
+    },
+    {
+      "id": 3,
+      "artistId": 1,
+      "title": "Self Portrait with Bandaged Ear",
+      "image": "Van Gogh_Self Portrait with Bandaged Ear.jpg",
+      "year": "1889",
+      "medium": "Oil on Canvas"
+    }
+  ]

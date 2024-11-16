@@ -1,0 +1,49 @@
+
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title><%= artist %> - Works</title>
+    <link rel="stylesheet" href="/style.css" />
+  </head>
+  <body>
+    <h1><%= artist %></h1>
+    
+  
+    <h2>Works:</h2>
+    <% if (works.length > 0) { %>
+      <ul>
+        <% works.forEach(work => { %>
+          <li>
+            <h3><%= work.title %>  (<%= work.year %>)</h3>
+            <p><%= work.medium %></p>
+            <img src="/images/<%= work.image %>" alt="<%= work.title %>" />
+          </li>
+        <% }) %>
+      </ul>
+    <% } else { %>
+      <p>No works available for this artist.</p>
+    <% } %>
+  
+    <h2>Details:</h2>
+    <% if (details.length > 0) { %>
+      <ul>
+        <% details.forEach(detail => { %>
+          <li>
+            <p><%= detail.artistName %> - <%= detail.born %>
+              - <%= detail.died %> - <%= detail.activeYears %>
+              - <%= detail.nationality %> - <%= detail.artMovement %>
+              - <%= detail.field %> - <%= detail.wikipedia %>
+            
+            
+            </p>
+          </li>
+        <% }) %>
+      </ul>
+    <% } else { %>
+      <p>No details found for this artist.</p>
+    <% } %>
+  </body>
+  </html>
+  

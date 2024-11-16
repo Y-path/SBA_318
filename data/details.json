@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "artistName": "Full Name: Vincent Willem van Gogh",
+      "born": "Born: March 30, 1853; Zundert, Netherlands",
+      "died": "Died: July 29, 1890; Auvers-sur-Oise, France",
+      "activeYears": "Active: 1880 - 1890",
+      "nationality": "Nationality: Dutch",
+      "artMovement": "Art Movement: Post-Impressionism",
+      "field": "Field: Painting",
+      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
+
+    },
+    {
+      "id": 2
+      
+    },
+    {
+      "id": 3
+     
+    }
+  ]
