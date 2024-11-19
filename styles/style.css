@@ -1,0 +1,21 @@
+body {
+    background-color: grey;
+    
+}   
+    
+h1 {
+    color: blue;
+    font-size: 25pt;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: orange;
+}
+
+li {
+    font-size: 13pt;
+}

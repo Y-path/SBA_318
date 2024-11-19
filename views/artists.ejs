@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title><%= artist %> - Works</title>
-    <link rel="stylesheet" href="/style.css" />
+    <link rel="stylesheet" type="text/css" href="/style.css" />
   </head>
   <body>
     <h1><%= artist %></h1>
@@ -31,13 +31,14 @@
       <ul>
         <% details.forEach(detail => { %>
           <li>
-            <p><%= detail.artistName %> - <%= detail.born %>
-              - <%= detail.died %> - <%= detail.activeYears %>
-              - <%= detail.nationality %> - <%= detail.artMovement %>
-              - <%= detail.field %> - <%= detail.wikipedia %>
+            <%= detail.artistName %><br>  <%= detail.born %>
+              - <%= detail.died %><br>  <%= detail.activeYears %><br>
+               <%= detail.nationality %><br>  <%= detail.artMovement %><br>
+               <%= detail.field %><br>  
+               <a href="<%= detail.wikipedia %>"><%= detail.wikipedia %></a>
             
             
-            </p>
+            
           </li>
         <% }) %>
       </ul>

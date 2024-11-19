@@ -1,12 +1,22 @@
 [
-    {
-      "id": 1,
-      "name": "Vincent van Gogh",
-      "movement": "Post-Impressionism"
-    },
-    {
-      "id": 2,
-      "name": "Remedios Varo",
-      "movement": "n/a"
-    }
-  ]
+  {
+    "id": 1,
+    "name": "Vincent van Gogh",
+    "movement": "Post-Impressionism"
+  },
+  {
+    "id": 2,
+    "name": "Remedios Varo",
+    "movement": "Surrealism"
+  },
+  {
+    "id": 3,
+    "name": "Claude Monet",
+    "movement": "Impressionism"
+  },
+  {
+    "id": 4,
+    "name": "Jackson Pollock",
+    "movement": "Abstract"
+  }
+]

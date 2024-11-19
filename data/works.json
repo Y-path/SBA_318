@@ -1,26 +1,55 @@
 [
-    {
-      "id": 1,
-      "artistId": 1,
-      "title": "Irises",
-      "image": "Van Gogh_Irises.jpg",
-      "year": "1889",
-      "medium": "Oil on Canvas"
-    },
-    {
-      "id": 2,
-      "artistId": 1,
-      "title": "The Starry Night",
-      "image": "Van Gogh_The Starry Night.jpg",
-      "year": "1889",
-      "medium": "Oil on Canvas"
-    },
-    {
-      "id": 3,
-      "artistId": 1,
-      "title": "Self Portrait with Bandaged Ear",
-      "image": "Van Gogh_Self Portrait with Bandaged Ear.jpg",
-      "year": "1889",
-      "medium": "Oil on Canvas"
-    }
-  ]
+  {
+    "id": 1,
+    "artistId": 1,
+    "title": "Irises",
+    "image": "Van Gogh_Irises.jpg",
+    "year": "1889",
+    "medium": "Oil on Canvas"
+  },
+  {
+    "id": 2,
+    "artistId": 1,
+    "title": "The Starry Night",
+    "image": "Van Gogh_The Starry Night.jpg",
+    "year": "1889",
+    "medium": "Oil on Canvas"
+  },
+  {
+    "id": 3,
+    "artistId": 1,
+    "title": "Self Portrait with Bandaged Ear",
+    "image": "Van Gogh_Self Portrait with Bandaged Ear.jpg",
+    "year": "1889",
+    "medium": "Oil on Canvas"
+  },
+
+  {
+    "id": 1,
+    "artistId": 2,
+    "title": "The Call",
+    "image": "Varo_The Call.jpg",
+    "year": "1961",
+    "medium": "Oil on Masonite"
+  },
+
+  {
+    "id": 1,
+    "artistId": 3,
+    "title": "Water Lilies",
+    "image": "Monet_Water Lilies.jpg",
+    "year": "1917",
+    "medium": "Oil on Canvas"
+  },
+  {
+    "id": 1,
+    "artistId": 4,
+    "title": "Galaxy",
+    "image": "Pollock_Galaxy.jpg",
+    "year": "1947",
+    "medium": "Mixed Media on Canvas, Aluminum"
+  }
+
+ 
+
+]

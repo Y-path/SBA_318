@@ -1,22 +1,50 @@
 [
-    {
-      "id": 1,
-      "artistName": "Full Name: Vincent Willem van Gogh",
-      "born": "Born: March 30, 1853; Zundert, Netherlands",
-      "died": "Died: July 29, 1890; Auvers-sur-Oise, France",
-      "activeYears": "Active: 1880 - 1890",
-      "nationality": "Nationality: Dutch",
-      "artMovement": "Art Movement: Post-Impressionism",
-      "field": "Field: Painting",
-      "wikipedia": "https://en.wikipedia.org/wiki/Vincent_van_Gogh"
-
-    },
-    {
-      "id": 2
-      
-    },
-    {
-      "id": 3
-     
-    }
-  ]
+  {
+    "id": 1,
+    "artistName": "Vincent van Gogh",
+    "born": "Born: March 30, 1853; Zundert, Netherlands",
+    "died": "Died: July 29, 1890; Auvers-sur-Oise, France",
+    "activeYears": "Active: 1880 - 1890",
+    "nationality": "Nationality: Dutch",
+    "artMovement": "Art Movement: Post-Impressionism",
+    "field": "Field: Painting",
+    "wikipedia": "https://en.wikipedia.org/wiki/Vincent_van_Gogh",
+    "workId": 1
+  },
+  {
+    "id": 2,
+    "artistName": "Remedios Varo",
+    "born": "Born: December 16, 1908; Anglès, Spain",
+    "died": "Died: October 8, 1963; Mexico City, Mexico",
+    "activeYears": "Active: 1935 - 1963",
+    "nationality": "Nationality: Spanish, Mexican, Catalan",
+    "artMovement": "Art Movement: Surrealism",
+    "field": "Field: Painting",
+    "wikipedia": "https://en.wikipedia.org/wiki/Remedios_Varo",
+    "workId": 2
+  },
+  {
+    "id": 3,
+    "artistName": "Claude Monet",
+    "born": "Born: November 14, 1840; Paris, France",
+    "died": "Died: December 5, 1926; Giverny, France",
+    "activeYears": "Active: 1865 - 1926",
+    "nationality": "Nationality: French",
+    "artMovement": "Art Movement: Impressionism",
+    "field": "Field: Painting",
+    "wikipedia": "https://www.wikiart.org/en/claude-monet",
+    "workId": 3
+  },
+  {
+    "id": 4,
+    "artistName": "Jackson Pollock",
+    "born": "Born: January 28, 1912; Cody, Wyoming, United States",
+    "died": "Died: August 11, 1956; Springs, New York, United States",
+    "activeYears": "Active: 1934 - 1953",
+    "nationality": "Nationality: American",
+    "artMovement": "Art Movement: Abstract Expressionism, Abstract Art",
+    "field": "Field: Painting",
+    "wikipedia": "https://en.wikipedia.org/wiki/Jackson_Pollock",
+    "workId": 4
+  }
+]
