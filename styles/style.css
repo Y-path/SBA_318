@@ -1,21 +1,101 @@
-body {
+/* body {
     background-color: grey;
     
-}   
+}  */
+
+h6 {
+    color: purple;
+    font-size: 24pt;
+    font-style:oblique;    
+    text-align: center;
     
+}  
+
 h1 {
     color: blue;
-    font-size: 25pt;
+    font-size: 28pt; 
+    position: relative;
+    left: 30px;
 }
 
 h2 {
-    color: red;
+    color: darkred;
+    position: relative;
+    left: 50px;
+    font-size: 20pt;
 }
 
 h3 {
-    color: orange;
+    color: orange; 
 }
 
 li {
     font-size: 13pt;
+    text-align: left;    
 }
+
+ul {
+    position: relative;
+    left: 75px;     
+}
+
+div2 {
+    position: fixed;
+    right: 125px;
+    top: 350px;
+}
+
+h5 {
+    color:darkgreen;
+    font-size: 18pt;
+    position: fixed;
+    top: 250px;
+    right: 125px;
+}
+
+.move2 {
+    display: block;
+    top: 110%;
+    left: 42%;
+    position: absolute;
+    color: black;
+    background-color: darkgreen;
+    cursor: pointer;
+  }
+
+  .bg {
+    width: 100%;
+    height: 100%;
+    /* display:flexbox; */
+    /* align-items: center;
+    justify-content: center; */ 
+    background-size: 300% 300%;
+    background-image: linear-gradient(-45deg, lightblue 0%, lightblue 25%, lightblue 51%, purple 100%);
+    -webkit-animation: AnimateBG 20s ease infinite;
+            animation: AnimateBG 20s ease infinite;
+  }
+  
+  @-webkit-keyframes AnimateBG {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  
+  @keyframes AnimateBG {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  

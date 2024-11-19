@@ -34,6 +34,24 @@
   },
 
   {
+    "id": 2,
+    "artistId": 2,
+    "title": "Creation of the Birds",
+    "image": "Varo_Creation of the Birds.jpg",
+    "year": "1957",
+    "medium": "Oil on Masonite"
+  },
+
+  {
+    "id": 3,
+    "artistId": 2,
+    "title": "Character",
+    "image": "Varo_Character.jpg",
+    "year": "Unknown",
+    "medium": "Oil on Masonite"
+  },
+
+  {
     "id": 1,
     "artistId": 3,
     "title": "Water Lilies",
@@ -41,6 +59,16 @@
     "year": "1917",
     "medium": "Oil on Canvas"
   },
+
+  {
+    "id": 2,
+    "artistId": 3,
+    "title": "Haystacks",
+    "image": "Monet_Haystacks.jpg",
+    "year": "1890",
+    "medium": "Oil on Canvas"
+  },
+
   {
     "id": 1,
     "artistId": 4,
@@ -48,8 +76,33 @@
     "image": "Pollock_Galaxy.jpg",
     "year": "1947",
     "medium": "Mixed Media on Canvas, Aluminum"
-  }
+  },
 
- 
+  {
+    "id": 2,
+    "artistId": 4,
+    "title": "Autumn Rythm (Number 30)",
+    "image": "Pollock_Autumn Rythm (Number 30).jpg",
+    "year": "1950",
+    "medium": "Oil and Enamel on Canvas"
+  },
+
+ {
+    "id": 1,
+    "artistId": 5,
+    "title": "Orange and Yellow",
+    "image": "Rothko_Orange and Yellow.jpg",
+    "year": "1956",
+    "medium": "Oil on Canvas"
+ },
+
+ {
+  "id": 2,
+  "artistId": 5,
+  "title": "No. 4",
+  "image": "Rothko_No. 4.jpg",
+  "year": "1964",
+  "medium": "Mixed Media on Canvas"
+}
 
 ]

@@ -23,6 +23,21 @@ app.get("/", (req,res) => {
 
 app.set("view engine", "ejs");
 
+app.get('/form', (req, res) => {
+    res.sendFile(path.join("views", "form.html"));
+  });
+  
+  app.post("/submit", (req, res) => {
+    const formData = req.body;
+    console.log("Form Data:", formData);
+  
+    res.send(`<h1 style="text-align:center; color:green">Success!</h1>`);
+  });
+
+  
+
+
+
 app.listen(port, () => {
     console.log(`Artist API listening on port ${port}`);
 });

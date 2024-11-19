@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "artistName": "Vincent van Gogh",
+    "artistName": "Full Nmae: Vincent Willem van Gogh",
     "born": "Born: March 30, 1853; Zundert, Netherlands",
     "died": "Died: July 29, 1890; Auvers-sur-Oise, France",
     "activeYears": "Active: 1880 - 1890",
@@ -13,7 +13,7 @@
   },
   {
     "id": 2,
-    "artistName": "Remedios Varo",
+    "artistName": "Full Name: María de los Remedios Alicia Rodriga Varo y Uranga",
     "born": "Born: December 16, 1908; Anglès, Spain",
     "died": "Died: October 8, 1963; Mexico City, Mexico",
     "activeYears": "Active: 1935 - 1963",
@@ -25,7 +25,7 @@
   },
   {
     "id": 3,
-    "artistName": "Claude Monet",
+    "artistName": "Full Name: Oscar Claude Monet",
     "born": "Born: November 14, 1840; Paris, France",
     "died": "Died: December 5, 1926; Giverny, France",
     "activeYears": "Active: 1865 - 1926",
@@ -37,7 +37,7 @@
   },
   {
     "id": 4,
-    "artistName": "Jackson Pollock",
+    "artistName": "Full Name: Paul Jackson Pollock",
     "born": "Born: January 28, 1912; Cody, Wyoming, United States",
     "died": "Died: August 11, 1956; Springs, New York, United States",
     "activeYears": "Active: 1934 - 1953",
@@ -46,5 +46,17 @@
     "field": "Field: Painting",
     "wikipedia": "https://en.wikipedia.org/wiki/Jackson_Pollock",
     "workId": 4
+  },
+  {
+    "id": 5,
+    "artistName": "Full Name: Маркус Роткович (Marcus Rothkowitz)",
+    "born": "Born: September 25, 1903; Daugavpils, Latvia",
+    "died": "Died: February 25, 1970; Manhattan, New York, United States",
+    "activeYears": "Active: 1925 - 1970",
+    "nationality": "Nationality: American, Jewish, Latvian",
+    "artMovement": "Art Movement: Abstract Expressionism, Abstract Art",
+    "field": "Field: Painting",
+    "wikipedia": "https://en.wikipedia.org/wiki/Mark_Rothko",
+    "workId": 5
   }
 ]

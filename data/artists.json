@@ -18,5 +18,14 @@
     "id": 4,
     "name": "Jackson Pollock",
     "movement": "Abstract"
+  },
+  {
+    "id": 5,
+    "name": "Mark Rothko",
+    "movement": "Abstract"
+  },
+  {
+    "id": 6,
+    "name": "Cezanne"
   }
 ]
